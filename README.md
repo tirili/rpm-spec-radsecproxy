@@ -5,7 +5,8 @@
 
 ## rpm build for Red Hat / CentOS 7 for radsecproxy
 
-.spec file for setting up a current RPM for radsecproxy
+.spec file for setting up a current RPM for radsecproxy http://software.uninett.no/radsecproxy/ to connect environments e.g. to EDUROAM.
+
 
 ## Issues
 
