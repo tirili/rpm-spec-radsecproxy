@@ -8,7 +8,6 @@
 .spec file for setting up a current RPM for radsecproxy
 
 ## Issues
-FIXME - how to support iPXE for HTTP/HTTPS Proxy
 
 Happy if you contribute!
 
